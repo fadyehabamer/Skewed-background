@@ -1,2 +1,2 @@
 # Skwed background 
- Using Css3 ( clip-path )
+> Using Css3 ( clip-path )
